@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dosis&size=30&pause=1000&width=435&lines=Tuxen+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=500&height=100&lines=TUXEN+GITHUB)](https://git.io/typing-svg)
